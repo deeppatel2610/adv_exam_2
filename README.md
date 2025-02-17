@@ -1,16 +1,44 @@
-# adv_exam_2
+# Advanced Exam 2
 
-A new Flutter project.
+## Overview
+This repository contains the project for **Advanced Exam 2**. It includes the implementation of various advanced concepts in Flutter/Dart.
 
-## Getting Started
+## Features
+- Implementing advanced Flutter UI components
+- State management
+- API integration
+- Light/Dark theme support
 
-This project is a starting point for a Flutter application.
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/deeppatel2610/adv_exam_2.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd adv_exam_2
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the project:
+   ```sh
+   flutter run
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
+- Flutter SDK
+- Dart SDK
+- Android Studio or Visual Studio Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributions
+Contributions are welcome! Feel free to submit a pull request.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License.
+
+
+
+https://github.com/user-attachments/assets/2b62a912-d74e-48e0-b631-f8ade56d6067
+
